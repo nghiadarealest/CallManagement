@@ -1,5 +1,5 @@
 # CallManagement
-Cài các gói NuGet
+## Cài các gói NuGet
 
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 
@@ -9,7 +9,7 @@ dotnet add package Microsoft.AspNetCore.Mvc.NewtonsoftJson
 
 dotnet tool install --global dotnet-ef
 
-Chạy Migrations:
+## Chạy Migrations:
 
 dotnet ef migrations add Init
 
