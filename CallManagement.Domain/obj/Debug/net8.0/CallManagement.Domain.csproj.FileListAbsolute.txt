@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\bin\Debug\net8.0\CallManagement.Domain.deps.json
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\bin\Debug\net8.0\CallManagement.Domain.dll
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\bin\Debug\net8.0\CallManagement.Domain.pdb
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\obj\Debug\net8.0\CallManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\obj\Debug\net8.0\CallManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\obj\Debug\net8.0\CallManagement.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\obj\Debug\net8.0\CallManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\obj\Debug\net8.0\CallManagement.Domain.dll
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\obj\Debug\net8.0\refint\CallManagement.Domain.dll
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\obj\Debug\net8.0\CallManagement.Domain.pdb
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Domain\obj\Debug\net8.0\ref\CallManagement.Domain.dll

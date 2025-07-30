@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|solutionrelative:callmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.api\\callmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|solutionrelative:callmanagement.api\\callmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.api\\callmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|solutionrelative:callmanagement.api\\callmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|solutionrelative:callmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.api\\controllers\\analyzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|solutionrelative:callmanagement.api\\controllers\\analyzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2D94F4-67AB-4B67-9071-B405C516D78E}|CallManagement.Infrastructure\\CallManagement.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.infrastructure\\services\\mockvoiceanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2D94F4-67AB-4B67-9071-B405C516D78E}|CallManagement.Infrastructure\\CallManagement.Infrastructure.csproj|solutionrelative:callmanagement.infrastructure\\services\\mockvoiceanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.api\\controllers\\callscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43201C59-D2F2-409D-9836-C4ACC1A50B7C}|CallManagement.API\\CallManagement.API.csproj|solutionrelative:callmanagement.api\\controllers\\callscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2D94F4-67AB-4B67-9071-B405C516D78E}|CallManagement.Infrastructure\\CallManagement.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.infrastructure\\persistence\\sqlitecallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2D94F4-67AB-4B67-9071-B405C516D78E}|CallManagement.Infrastructure\\CallManagement.Infrastructure.csproj|solutionrelative:callmanagement.infrastructure\\persistence\\sqlitecallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2D94F4-67AB-4B67-9071-B405C516D78E}|CallManagement.Infrastructure\\CallManagement.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.infrastructure\\persistence\\calldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2D94F4-67AB-4B67-9071-B405C516D78E}|CallManagement.Infrastructure\\CallManagement.Infrastructure.csproj|solutionrelative:callmanagement.infrastructure\\persistence\\calldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.application\\usecases\\createcallusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|solutionrelative:callmanagement.application\\usecases\\createcallusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.application\\usecases\\getcallsbydateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|solutionrelative:callmanagement.application\\usecases\\getcallsbydateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B4F39D-4BDE-4AB8-BC56-6628AFE6DC8F}|CallManagement.Domain\\CallManagement.Domain.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.domain\\entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B4F39D-4BDE-4AB8-BC56-6628AFE6DC8F}|CallManagement.Domain\\CallManagement.Domain.csproj|solutionrelative:callmanagement.domain\\entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B4F39D-4BDE-4AB8-BC56-6628AFE6DC8F}|CallManagement.Domain\\CallManagement.Domain.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.domain\\callmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67B4F39D-4BDE-4AB8-BC56-6628AFE6DC8F}|CallManagement.Domain\\CallManagement.Domain.csproj|solutionrelative:callmanagement.domain\\callmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B4F39D-4BDE-4AB8-BC56-6628AFE6DC8F}|CallManagement.Domain\\CallManagement.Domain.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.domain\\interfaces\\icallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B4F39D-4BDE-4AB8-BC56-6628AFE6DC8F}|CallManagement.Domain\\CallManagement.Domain.csproj|solutionrelative:callmanagement.domain\\interfaces\\icallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.application\\usecases\\getcallstatsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|solutionrelative:callmanagement.application\\usecases\\getcallstatsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.application\\dtos\\calldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|solutionrelative:callmanagement.application\\dtos\\calldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|c:\\users\\lenovo\\source\\repos\\callmanagement\\callmanagement.application\\callmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94FAEAC2-68AE-4B79-9F71-706B156414E3}|CallManagement.Application\\CallManagement.Application.csproj|solutionrelative:callmanagement.application\\callmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CallManagement.API.http",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\CallManagement.API.http",
+              "RelativeDocumentMoniker": "CallManagement.API\\CallManagement.API.http",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\CallManagement.API.http",
+              "RelativeToolTip": "CallManagement.API\\CallManagement.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-30T03:27:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CallManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\appsettings.json",
+              "RelativeToolTip": "CallManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T03:27:28.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallManagement.API.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\CallManagement.API.csproj",
+              "RelativeDocumentMoniker": "CallManagement.API\\CallManagement.API.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\CallManagement.API.csproj",
+              "RelativeToolTip": "CallManagement.API\\CallManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T03:02:23.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CallManagement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Domain\\CallManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "CallManagement.Domain\\CallManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Domain\\CallManagement.Domain.csproj",
+              "RelativeToolTip": "CallManagement.Domain\\CallManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T02:58:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "CallManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\Program.cs",
+              "RelativeToolTip": "CallManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:49:07.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalyzeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\Controllers\\AnalyzeController.cs",
+              "RelativeDocumentMoniker": "CallManagement.API\\Controllers\\AnalyzeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\Controllers\\AnalyzeController.cs",
+              "RelativeToolTip": "CallManagement.API\\Controllers\\AnalyzeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:48:51.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CallsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\Controllers\\CallsController.cs",
+              "RelativeDocumentMoniker": "CallManagement.API\\Controllers\\CallsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.API\\Controllers\\CallsController.cs",
+              "RelativeToolTip": "CallManagement.API\\Controllers\\CallsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAewCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:47:59.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MockVoiceAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Infrastructure\\Services\\MockVoiceAnalyzer.cs",
+              "RelativeDocumentMoniker": "CallManagement.Infrastructure\\Services\\MockVoiceAnalyzer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Infrastructure\\Services\\MockVoiceAnalyzer.cs",
+              "RelativeToolTip": "CallManagement.Infrastructure\\Services\\MockVoiceAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:47:14.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqliteCallRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Infrastructure\\Persistence\\SqliteCallRepository.cs",
+              "RelativeDocumentMoniker": "CallManagement.Infrastructure\\Persistence\\SqliteCallRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Infrastructure\\Persistence\\SqliteCallRepository.cs",
+              "RelativeToolTip": "CallManagement.Infrastructure\\Persistence\\SqliteCallRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:46:50.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CallDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Infrastructure\\Persistence\\CallDbContext.cs",
+              "RelativeDocumentMoniker": "CallManagement.Infrastructure\\Persistence\\CallDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Infrastructure\\Persistence\\CallDbContext.cs",
+              "RelativeToolTip": "CallManagement.Infrastructure\\Persistence\\CallDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:46:28.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetCallStatsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\UseCases\\GetCallStatsUseCase.cs",
+              "RelativeDocumentMoniker": "CallManagement.Application\\UseCases\\GetCallStatsUseCase.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\UseCases\\GetCallStatsUseCase.cs",
+              "RelativeToolTip": "CallManagement.Application\\UseCases\\GetCallStatsUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:45:45.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCallsByDateUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\UseCases\\GetCallsByDateUseCase.cs",
+              "RelativeDocumentMoniker": "CallManagement.Application\\UseCases\\GetCallsByDateUseCase.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\UseCases\\GetCallsByDateUseCase.cs",
+              "RelativeToolTip": "CallManagement.Application\\UseCases\\GetCallsByDateUseCase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:45:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCallUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\UseCases\\CreateCallUseCase.cs",
+              "RelativeDocumentMoniker": "CallManagement.Application\\UseCases\\CreateCallUseCase.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\UseCases\\CreateCallUseCase.cs",
+              "RelativeToolTip": "CallManagement.Application\\UseCases\\CreateCallUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:45:04.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CallDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\DTOs\\CallDto.cs",
+              "RelativeDocumentMoniker": "CallManagement.Application\\DTOs\\CallDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\DTOs\\CallDto.cs",
+              "RelativeToolTip": "CallManagement.Application\\DTOs\\CallDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:44:43.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICallRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Domain\\Interfaces\\ICallRepository.cs",
+              "RelativeDocumentMoniker": "CallManagement.Domain\\Interfaces\\ICallRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Domain\\Interfaces\\ICallRepository.cs",
+              "RelativeToolTip": "CallManagement.Domain\\Interfaces\\ICallRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:44:03.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Call.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Domain\\Entities\\Call.cs",
+              "RelativeDocumentMoniker": "CallManagement.Domain\\Entities\\Call.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Domain\\Entities\\Call.cs",
+              "RelativeToolTip": "CallManagement.Domain\\Entities\\Call.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:43:27.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CallManagement.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\CallManagement.Application.csproj",
+              "RelativeDocumentMoniker": "CallManagement.Application\\CallManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CallManagement\\CallManagement.Application\\CallManagement.Application.csproj",
+              "RelativeToolTip": "CallManagement.Application\\CallManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T02:42:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

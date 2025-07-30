@@ -1,0 +1,6 @@
+@CallManagement.API_HostAddress = http://localhost:5220
+
+GET {{CallManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

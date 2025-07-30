@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\bin\Debug\net8.0\CallManagement.Application.deps.json
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\bin\Debug\net8.0\CallManagement.Application.dll
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\bin\Debug\net8.0\CallManagement.Application.pdb
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\bin\Debug\net8.0\CallManagement.Domain.dll
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\bin\Debug\net8.0\CallManagement.Domain.pdb
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\CallManagement.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\CallManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\CallManagement.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\CallManagement.Application.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\CallManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\CallMana.E71C891E.Up2Date
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\CallManagement.Application.dll
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\refint\CallManagement.Application.dll
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\CallManagement.Application.pdb
+C:\Users\LENOVO\source\repos\CallManagement\CallManagement.Application\obj\Debug\net8.0\ref\CallManagement.Application.dll
