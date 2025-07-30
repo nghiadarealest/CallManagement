@@ -1,10 +1,4 @@
 # CallManagement
-## Thêm Reference
-API → Application, Infrastructure, Domain
-
-Application → Domain
-
-Infrastructure → Application, Domain
 
 ## Cài các gói NuGet
 
