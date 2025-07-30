@@ -17,4 +17,8 @@ dotnet ef database update
 
 dotnet build
 
+dotnet ef migrations add Init --project CallManagement.Infrastructure --startup-project CallManagement.API --verbose
+
+cd CallManagement.API
+
 dotnet run
