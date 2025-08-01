@@ -1,6 +1,6 @@
 # CallManagement
 
-Backend: .NET C#
+Backend: .NET (API) dựa trên kiến trúc Clean Architecture
 
 ## Cài các gói NuGet
 
