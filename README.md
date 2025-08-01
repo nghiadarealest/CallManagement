@@ -1,5 +1,7 @@
 # CallManagement
 
+Backend: .NET C#
+
 ## Cài các gói NuGet
 
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite
@@ -19,6 +21,8 @@ dotnet ef database update
 dotnet build
 
 dotnet ef migrations add Init --project CallManagement.Infrastructure --startup-project CallManagement.API --verbose
+
+## Chạy ứng dụng
 
 cd CallManagement.API
 
